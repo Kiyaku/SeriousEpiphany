@@ -43,3 +43,5 @@ recipes.addShaped(backpack.withTag({display:{color:1248541, Name:"Void Metal Bac
 	function(out, ins, cinfo){ return ins.bp.updateTag({display:{color:1248541, Name:"Void Metal Backpack"},backpack:{size:[17,6], tier: 4}});},
 	null
 );
+
+backpack.addTooltip(format.green("Can be upgraded (press 'U' for recipe)"));
