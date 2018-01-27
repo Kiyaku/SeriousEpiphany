@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "randomchest",
+  "items": [
+    {
+      "weight": 99.99998474121094,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "sradditions:loot_crate",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 35.04269027709961,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "sradditions:loot_crate",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 10.335477828979492,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "sradditions:loot_crate",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 3.3419337272644043,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "sradditions:loot_crate",
+        "damage": 3,
+        "count": 1
+      }
+    },
+    {
+      "weight": 7.019199371337891,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "scalinghealth:heartcontainer",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

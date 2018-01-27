@@ -28,6 +28,11 @@ for item in itemsToRemove {
 }
 
 
+// Furnace
+furnace.remove(<railcraft:nugget:1>);
+
+
+// Other
 recipes.remove(<minecraft:bread>);
 
 
