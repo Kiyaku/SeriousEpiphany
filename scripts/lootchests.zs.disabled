@@ -5,10 +5,6 @@ import loottweaker.vanilla.loot.Conditions;
 import loottweaker.vanilla.loot.Functions;
 
 val table = LootTables.getTable("lootchests:serious_loot");
-table.removePool("common");
-table.removePool("uncommon");
-table.removePool("rare");
-table.removePool("mythic");
 val common = table.addPool("common", 2, 4, 1, 1);
 val uncommon = table.addPool("uncommon", 1, 4, 1, 1);
 val rare = table.addPool("rare", 1, 3, 1, 1);
